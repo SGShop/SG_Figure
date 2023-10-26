@@ -253,7 +253,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=NA_SAS"><img src="img/sasuke.jpg" alt="" class="product-thumb"></a>
+                            <a href="?page=details&&id=NA_SAS"><img src="img/Sasuke.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="?page=details&&id=NA_SAS">Figure_Sasuke</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
